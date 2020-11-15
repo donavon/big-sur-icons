@@ -1,6 +1,6 @@
 # big-sur-icons
 
-<p align="center"><img src="doc/img/sample.png" width="300" /></p>
+<p align="center"><img src="doc/img/sample.png" width="370" /></p>
 <p align="center">A collection of re-imagined icons for popular apps in the macOS Big Sur style</p>
 <hr />
 
@@ -8,9 +8,10 @@ Love it, hate it, or meh, the styling of macOS Bir Sur is here. I happen to like
 
 ## Instructions
 
-To change the icon first download the icon you would like for your app. Next open Preview and press `⌘`-`a` to select all. Then press `⌘`+`c` to copy the image.
+To change the icon first download the icon you would like for your app. Next open Preview and press `⌘`+`A` to select all. Then press `⌘`+`C` to copy the image.
 
 <p><img src="doc/img/preview.png" width="400" /></p>
+
 Then go to the app in the dock, right-click, and select `Show in Finder`
 
 <p><img src="doc/img/showinfinder.png" width="400" /></p>
@@ -19,7 +20,7 @@ A finder window will show up. Right click on the app entry in finder and select 
 
 <p><img src="doc/img/outline.png" width="400" /></p>
 
-Then press `⌘`+`v` to paste it in. If finder asks for your password, put it in. Then, if the app you changed the icon for is open, quit it and open it again. You should see your new icon!
+Then press `⌘`+`V` to paste it in. If finder asks for your password, put it in. Then, if the app you changed the icon for is open, quit it and open it again. You should see your new icon!
 
 ## Contribute
 
