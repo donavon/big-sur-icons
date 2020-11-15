@@ -59,6 +59,15 @@ For example, to add an icon for the popular Foo app:
     README.md
 ```
 
+<<<<<<< Updated upstream
+=======
+## Icons
+
+<p>
+  <img src="icons/brave/brave.png" width="75" alt="Brave"/><img src="icons/vscode/vscode-light.png" width="75" alt="VSCode"/><img src="icons/iterm/iterm.png" width="75" alt="iTerm"/><img src="icons/twitter/twitter.png" width="75" alt="Twitter"/><img src="icons/google/messages/messages.png" width="75" alt="Google Messages"/><img src="icons/google/chrome/chrome.png" width="75" alt="Chrome"/>
+</p>
+
+>>>>>>> Stashed changes
 ## License
 
 Icons are copyright of their respective owners and are licensed here under [MIT](./LICENSE)
