@@ -8,11 +8,9 @@ Love it, hate it, or meh, the styling of macOS Bir Sur is here. I happen to like
 
 ## Instructions
 
-To change an icon, first download the icon you would like for your app. Next, open Preview and press `⌘`+`A` to select all, then press `⌘`+`C` to copy the image.
+To change an icon, first go to the [Icons](#icons) section below and look for the icons you wish to use. Right-click on the image select `Copy Image`.
 
-<p><img src="doc/img/preview.png" width="400" /></p>
-
-Go to the app in the dock, right-click, and select `Show in Finder`.
+Next, go to the app in the dock, right-click, and select `Show in Finder`.
 
 <p><img src="doc/img/showinfinder.png" width="400" /></p>
 
@@ -21,6 +19,19 @@ In the Finder window, right click on the app entry and select `Get Info`. A wind
 <p><img src="doc/img/outline.png" width="400" /></p>
 
 Press `⌘`+`V` to paste the image. If Finder asks for your password, put it in. Then, if the app you changed the icon for is open, quit it and open it again. You should see your new icon!
+
+## Icons <a name="icons" />
+
+<p>
+  <img src="icons/brave/brave.png" width="75" alt="Brave"/>
+  <img src="icons/vscode/vscode-light.png" width="75" alt="VSCode light"/>
+  <img src="icons/vscode/vscode-dark.png" width="75" alt="VSCode dark"/>
+  <img src="icons/iterm/iterm.png" width="75" alt="iTerm"/>
+  <img src="icons/twitter/twitter.png" width="75" alt="Twitter"/>
+  <img src="icons/slack/slack-light.png" width="75" alt="Slack light"/>
+  <img src="icons/slack/slack-dark.png" width="75" alt="Slack dark"/>
+  <img src="icons/google/messages/messages.png" width="75" alt="Google Messages"/>
+</p>
 
 ## Contribute
 
@@ -47,17 +58,6 @@ For example, to add an icon for the popular Foo app:
     foo.psd
     README.md
 ```
-
-## Icons
-
-<p>
-  <img src="icons/brave/brave.png" width="75" alt="Brave"/>
-  <img src="icons/vscode/vscode-light.png" width="75" alt="VSCode"/>
-  <img src="icons/iterm/iterm.png" width="75" alt="iTerm"/>
-  <img src="icons/twitter/twitter.png" width="75" alt="Twitter"/>
-  <img src="icons/slack/slack-light.png" width="75" alt="Slack"/>
-  <img src="icons/google/messages/messages.png" width="75" alt="Google Messages"/>
-</p>
 
 ## License
 
