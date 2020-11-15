@@ -30,7 +30,7 @@ Next, use the Photoshop template in `/docs/big-sur-icon-template.psd` to create 
 
 > If the icon is the pre-Big Sur one with a background, make both a light and a dark. For continuity, please use only solid white and black backgrounds for the image except if there is a valid reason not to.
 
-Place the png(s) and the psd file in the folder. Optionally, create a `README` file with any needed explaination. Then create a pull request.
+Place the png(s) and the psd file in the folder. Optionally, create a `README` file with any needed explaination. After that, put the new icon's image (light mode) down at the image list below. Then create a pull request.
 
 > Please use the naming convention of all lower case with dashes `-` between words.
 
@@ -47,6 +47,12 @@ For example, to add an icon for the popular Foo app:
     foo.psd
     README.md
 ```
+
+## Icons
+
+<p>
+  <img src="icons/brave/brave.png" width="75" alt="Brave"/><img src="icons/vscode/vscode-light.png" width="75" alt="VSCode"/><img src="icons/iterm/iterm.png" width="75" alt="iTerm"/><img src="icons/twitter/twitter.png" width="75" alt="Twitter"/>
+</p>
 
 ## License
 
