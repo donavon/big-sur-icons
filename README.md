@@ -51,7 +51,12 @@ For example, to add an icon for the popular Foo app:
 ## Icons
 
 <p>
-  <img src="icons/brave/brave.png" width="75" alt="Brave"/><img src="icons/vscode/vscode-light.png" width="75" alt="VSCode"/><img src="icons/iterm/iterm.png" width="75" alt="iTerm"/><img src="icons/twitter/twitter.png" width="75" alt="Twitter"/><img src="icons/google/messages/messages.png" width="75" alt="Google Messages"/>
+  <img src="icons/brave/brave.png" width="75" alt="Brave"/>
+  <img src="icons/vscode/vscode-light.png" width="75" alt="VSCode"/>
+  <img src="icons/iterm/iterm.png" width="75" alt="iTerm"/>
+  <img src="icons/twitter/twitter.png" width="75" alt="Twitter"/>
+  <img src="icons/slack/slack-light.png" width="75" alt="Slack"/>
+  <img src="icons/google/messages/messages.png" width="75" alt="Google Messages"/>
 </p>
 
 ## License
