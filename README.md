@@ -20,7 +20,7 @@ In the Finder window, right click on the app entry and select `Get Info`. A wind
 
 Press `⌘`+`V` to paste the image. If Finder asks for your password, put it in. Then, if the app you changed the icon for is open, quit it and open it again. You should see your new icon!
 
-## Icons <a name="icons" />
+## Icons <a name="icons" ></a>
 
 <p>
   <img src="icons/brave/brave.png" width="75" alt="Brave"/>
@@ -31,6 +31,7 @@ Press `⌘`+`V` to paste the image. If Finder asks for your password, put it in.
   <img src="icons/slack/slack-light.png" width="75" alt="Slack light"/>
   <img src="icons/slack/slack-dark.png" width="75" alt="Slack dark"/>
   <img src="icons/google/messages/messages.png" width="75" alt="Google Messages"/>
+  <img src="icons/google/chrome/chrome.png" width="75" alt="Chrome"/>
 </p>
 
 ## Contribute
