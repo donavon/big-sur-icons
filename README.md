@@ -11,6 +11,7 @@ Love it, hate it, or meh, the styling of macOS Bir Sur is here. I happen to like
 To change the icon first download the icon you would like for your app. Next open Preview and press `⌘`-`a` to select all. Then press `⌘`+`c` to copy the image.
 
 <p><img src="doc/img/preview.png" width="400" /></p>
+
 Then go to the app in the dock, right-click, and select `Show in Finder`
 
 <p><img src="doc/img/showinfinder.png" width="400" /></p>
