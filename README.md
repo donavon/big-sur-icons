@@ -1,24 +1,37 @@
 # big-sur-icons
 
-<p align="center"><img src="doc/sample.png" width="300" /></p>
-<p align="center">A collection of re-imagined icons for popular apps in the macOS Big Sir style</p>
+<p align="center"><img src="doc/img/sample.png" width="300" /></p>
+<p align="center">A collection of re-imagined icons for popular apps in the macOS Big Sur style</p>
 <hr />
-
-## Motivation
 
 Love it, hate it, or meh, the styling of macOS Bir Sur is here. I happen to like the new icons, but some of the pre-Big Sur icons look out of place. I set out to change that.
 
-## Instuctions
+## Instructions
 
-[wip]
+To change the icon first download the icon you would like for your app. Next open Preview and press `⌘`-`a` to select all. Then press `⌘`+`c` to copy the image.
+
+<p><img src="doc/img/preview.png" width="400" /></p>
+Then go to the app in the dock, right-click, and select `Show in Finder`
+
+<p><img src="doc/img/showinfinder.png" width="400" /></p>
+
+A finder window will show up. Right click on the app entry in finder and select `Get Info`. A window will pop up. At the top left corner of the window you will see a tiny picture of the app icon. Click once on the little photo so an outline will appear.
+
+<p><img src="doc/img/outline.png" width="400" /></p>
+
+Then press `⌘`+`v` to paste it in. If finder asks for your password, put it in. Then, if the app you changed the icon for is open, quit it and open it again. You should see your new icon!
 
 ## Contribute
 
-To add an icon to the list, create a folder under `icons`. Place the png file and the psd file in the folder. Optionally, create a `README` file with any needed explaination. Then create a pull request.
+To add an icon to the list, create a folder under `icons`.
+
+Next, use the Photoshop template in `/docs/big-sur-icon-template.psd` to create a png.
+
+> If the icon is the pre-Big Sur one with a background, make both a light and a dark. For continuity, please use only solid white and black backgrounds for the image except if there is a valid reason not to.
+
+Place the png(s) and the psd file in the folder. Optionally, create a `README` file with any needed explaination. Then create a pull request.
 
 > Please use the naming convention of all lower case with dashes `-` between words.
-
-For your convenience, there is a Photoshop template in `/docs/big-sur-icon-template.psd`.
 
 For example, to add an icon for the popular Foo app:
 
@@ -28,7 +41,8 @@ For example, to add an icon for the popular Foo app:
     brave.png
     brave.psd
   /foo
-    foo.png
+    foo-light.png
+    foo-dark.png
     foo.psd
     README.md
 ```
