@@ -32,6 +32,9 @@ Press `⌘`+`V` to paste the image. If Finder asks for your password, put it in.
   <img src="icons/slack/slack-dark.png" width="75" alt="Slack dark"/>
   <img src="icons/google/messages/messages.png" width="75" alt="Google Messages"/>
   <img src="icons/google/chrome/chrome.png" width="75" alt="Chrome"/>
+  <img src="icons/google/chrome-dev/chrome-dev.png" width="75" alt="Chrome Developer"/>
+  <img src="icons/robo3t/robo3t.png" width="75" alt="Robo 3T"/>
+
 </p>
 
 ## Contribute
